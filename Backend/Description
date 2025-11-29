@@ -1,0 +1,4 @@
+Backend & Dimensional Modelling
+While front-end dashboards showcase results, the backend is the backbone.
+The dimensional modelling using a star schema ensures that the data is structured, query-friendly, and scalable for complex analytics.
+
