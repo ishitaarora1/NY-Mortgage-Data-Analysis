@@ -1,0 +1,12 @@
+purchaser_type_code,purchaser_type_description
+0,Not applicable
+1,Fannie Mae
+2,Ginnie Mae
+3,Freddie Mac
+4,Farmer Mac
+5,Private securitizer
+6,"Commercial bank, savings bank, or savings association"
+71,"Credit union, mortgage company, or finance company"
+72,Life insurance company
+8,Affiliate institution
+9,Other type of purchaser
