@@ -1,6 +1,6 @@
 # Datasets
 
-This folder contains all the raw HMDA loan application datasets (2018–2022) used in the NY-Loan-Lending-Analysis project.
+This folder contains all the raw HMDA loan application datasets (2020–2024) used in the NY-Loan-Lending-Analysis project.
 
 Note : The other 4 year files namely - 2021, 2022 , 2023, and 2024 , that are not available here due to the size limit , can be downloaded from this link --> 
 https://ffiec.cfpb.gov/data-publication/dynamic-national-loan-level-dataset/2024 . 
