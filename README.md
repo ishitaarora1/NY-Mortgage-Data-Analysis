@@ -29,7 +29,7 @@ The final output is an interactive Power BI dashboard highlighting trends in loa
 
 ## 📊 Dataset Overview
 
-- **Source:** HMDA loan application data (2018–2022)  
+- **Source:** HMDA loan application data (2020–2024)  
 - **Volume:** ~2 million applications from New York  
 - **Coverage:** 1,633 unique applicants across financial institutions  
 
